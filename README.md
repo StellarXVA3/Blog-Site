@@ -17,3 +17,9 @@
 
 - Three.JS
 - GSAP
+
+## Styling
+
+- CSS
+- SASS (Preprocessor)
+- PostCSS (Postprocessor)
